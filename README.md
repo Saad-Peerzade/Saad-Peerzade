@@ -83,7 +83,7 @@ Hi, I'm **Saad Peerjade** 👋
 ---
 
 🔝 **Top Contributed Repo**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saad-Peerzade&layout=compact&theme=dark)
+![](https://github-contributor-stats.vercel.app/api?username=Saad-Peerzade&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Saad-Peerzade&icon=5&color=9)](https://visitcount.itsvg.in)
