@@ -86,7 +86,7 @@ Hi, I'm **Saad Peerjade** 👋
 ### 🚀 My Projects
 
 
-[![E-Wallet](https://github-readme-stats.vercel.app/api/pin/?username=Saad-Peerzade&repo=E-Wallet&theme=tokyonight)](https://github.com/Saad-Peerzade/E-Wallet)
+[![E-Wallet](https://github-readme-stats.vercel.app/api/pin/?username=Saad-Peerzade&repo=e_wallet&theme=tokyonight)](https://github.com/Saad-Peerzade/E-Wallet)
 
 [![Decentralized Voting](https://github-readme-stats.vercel.app/api/pin/?username=Saad-Peerzade&repo=Decentralized-Voting&theme=tokyonight)](https://github.com/Saad-Peerzade/Decentralized-Voting)
 
