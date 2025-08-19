@@ -83,10 +83,13 @@ Hi, I'm **Saad Peerjade** 👋
 ---
 
 🔝 **Top Contributed Repo**  
-![](https://github-contributor-stats.vercel.app/api?username=Saad-Peerzade&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- [UniWallet](https://github.com/Saad-Peerzade/UniWallet) — Campus currency app (React)  
+- [Decentralized-Voting](https://github.com/Saad-Peerzade/Decentralized-Voting) — Voting app (Solidity + React)  
+- [Decentralized-Energy-Marketplace](https://github.com/Saad-Peerzade/Decentralized-Energy-Marketplace) — Small-scale ICP energy trading demo
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Saad-Peerzade&icon=5&color=9)](https://visitcount.itsvg.in)
+
 
 
 © 2025 Saad Peerjade
