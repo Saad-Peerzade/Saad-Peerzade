@@ -82,11 +82,8 @@ Hi, I'm **Saad Peerjade** 👋
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Saad-Peerzade&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Saad-Peerzade&icon=5&color=9)](https://visitcount.itsvg.in)
+### 🔝 Top Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Saad-Peerzade&repo=Decentralized-Voting&theme=dark)](https://github.com/Saad-Peerzade/Decentralized-Voting)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
