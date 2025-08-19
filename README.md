@@ -83,8 +83,10 @@ Hi, I'm **Saad Peerjade** 👋
 ---
 
 🔝 **Top Contributed Repo**  
-![](https://github-contributor-stats.vercel.app/api?username=Saad-Peerzade&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Saad-Peerzade&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Saad-Peerzade&icon=5&color=9)](https://visitcount.itsvg.in)
+
 
 © 2025 Saad Peerjade
