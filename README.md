@@ -83,8 +83,13 @@ Hi, I'm **Saad Peerjade** 👋
 ---
 
 ### 🔝 Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Saad-Peerzade&repo=Decentralized-Voting&theme=radical)](https://github.com/Saad-Peerzade/Decentralized-Voting)
+### 🚀 My Projects
 
+[![UniWallet](https://github-readme-stats.vercel.app/api/pin/?username=Saad-Peerzade&repo=UniWallet&theme=tokyonight)](https://github.com/Saad-Peerzade/UniWallet)
+
+[![Decentralized Voting](https://github-readme-stats.vercel.app/api/pin/?username=Saad-Peerzade&repo=Decentralized-Voting&theme=tokyonight)](https://github.com/Saad-Peerzade/Decentralized-Voting)
+
+[![Energy Marketplace](https://github-readme-stats.vercel.app/api/pin/?username=Saad-Peerzade&repo=Energy-Marketplace&theme=tokyonight)](https://github.com/Saad-Peerzade/Energy-Marketplace)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 © 2025 Saad Peerjade
