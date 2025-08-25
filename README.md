@@ -90,7 +90,8 @@ Hi, I'm **Saad Peerjade** 👋
 
 [![Decentralized Voting](https://github-readme-stats.vercel.app/api/pin/?username=Saad-Peerzade&repo=Decentralized-Voting&theme=tokyonight)](https://github.com/Saad-Peerzade/Decentralized-Voting)
 
-[![Blockchain Energy Marketplace](https://github-readme-stats.vercel.app/api/pin/?username=Saad-Peerzade&repo=Energy-Marketplace&theme=tokyonight)](https://github.com/Saad-Peerzade/blockchain-energy-marketplace)
+[![Blockchain Energy Marketplace](https://github-readme-stats.vercel.app/api/pin/?username=Saad-Peerzade&repo=blockchain-energy-marketplace&theme=tokyonight)](https://github.com/Saad-Peerzade/blockchain-energy-marketplace)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 © 2025 Saad Peerjade
