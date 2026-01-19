@@ -13,7 +13,8 @@ align="right" width="150">
 Hi, I'm **Saad Peerjade** 👋  
 🎓 Computer Science student from India  
 👨‍💻 Aspiring **Software Developer** who loves turning ideas into real, useful apps  
-🌱 Currently focusing on **Python, Web Development, and App Development** 🔗 **Curious about Blockchain/Web3** as a side interest  
+🌱 Currently focusing on **Python, Web Development, and App Development** 
+🔗 **Curious about Blockchain/Web3** as a side interest  
 ⚡ I build step by step and ship small, working increments  
 💬 Ask me about my projects, learning journey, or future plans  
 🎯 Motto: *Keep building, keep improving*
