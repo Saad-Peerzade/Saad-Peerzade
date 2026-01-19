@@ -7,7 +7,8 @@
 </p>
 
 # 💫 About Me:
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZqZzR3eHBybmZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/m25G67nvT1GvNC9In7/giphy.gif" align="right" width="150">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh2M2d3b3g1MjZ0eG4zMG95MHFqd3d6bmNuYnkzeGVyaGUzMjN4MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cnk4ZRTlfeI32o/giphy.gif"
+align="right" width="150">
 
 Hi, I'm **Saad Peerjade** 👋  
 🎓 Computer Science student from India  
