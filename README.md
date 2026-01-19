@@ -41,15 +41,20 @@ Hi, I'm **Saad Peerjade** 👋
 </table>
 ---
 
-# 🌐 Socials:
-<p align="left">
-<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh2M2d3b3g1MjZ0eG4zMG95MHFqd3d6bmNuYnkzeGVyaGUzMjN4MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6rCk8D1VZwm52/giphy.gif" width="50"> -->
-<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-peerjade-625223228)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Saad-Peerzade)  
-📧 Email: saadpeerjade5@gmail.com
-</p>
+# 🌐 Connect with Me:
 
+<p align="left">
+<a href="https://github.com/Saad-Peerzade" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/saad-peerjade-625223228" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+</a>
+<a href="mailto:saadpeerjade5@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
+</a>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRreGZ3bmZqZzR3eHBybmZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/IeS86YhY78S16W24U8/giphy.gif" width="40" style="vertical-align:middle; margin-left:10px;">
+</p>
 ---
 
 # 📌 Featured Projects
