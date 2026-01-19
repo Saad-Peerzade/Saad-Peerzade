@@ -53,7 +53,6 @@ Hi, I'm **Saad Peerjade** 👋
 <a href="mailto:saadpeerjade5@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
 </a>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRreGZ3bmZqZzR3eHBybmZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/IeS86YhY78S16W24U8/giphy.gif" width="40" style="vertical-align:middle; margin-left:10px;">
 </p>
 ---
 
