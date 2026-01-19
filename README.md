@@ -77,7 +77,7 @@ Hi, I'm **Saad Peerjade** 👋
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/1fkYJk9SmmfPMrxWIncdWwBp3FIIewhlR?usp=drive_link" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1175DdHbADFqXjP8T3AIE4ErX9htwFzJZ/view?usp=drive_link" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=footer" alt="footer"/>
 
