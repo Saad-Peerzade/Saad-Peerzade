@@ -21,7 +21,7 @@ Hi, I'm **Saad Peerjade** 👋
 ---
 
 # 💻 Tech Stack & Skills
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh2M2d3b3g1MjZ0eG4zMG95MHFqd3d6bmNuYnkzeGVyaGUzMjN4MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6rCk8D1VZwm52/giphy.gif" align="right" width="110">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh2M2d3b3g1MjZ0eG4zMG95MHFqd3d6bmNuYnkzeGVyaGUzMjN4MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6rCk8D1VZwm52/giphy.gif" align="right" width="75">
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,c,java,solidity,rust,react,html,css,tailwind,bootstrap,nodejs,git,github,vercel,vscode,figma,ubuntu,windows)](https://skillicons.dev)
 
@@ -34,7 +34,7 @@ Hi, I'm **Saad Peerjade** 👋
 
 # 🌐 Socials:
 <p align="left">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh2M2d3b3g1MjZ0eG4zMG95MHFqd3d6bmNuYnkzeGVyaGUzMjN4MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6rCk8D1VZwm52/giphy.gif" width="50">
+<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh2M2d3b3g1MjZ0eG4zMG95MHFqd3d6bmNuYnkzeGVyaGUzMjN4MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6rCk8D1VZwm52/giphy.gif" width="50"> -->
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-peerjade-625223228)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Saad-Peerzade)  
