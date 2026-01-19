@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=007ACC&width=435&lines=Hello%2C+it's+Saad+Peerjade;Aspiring+Software+Developer;Blockchain+Enthusiast" alt="Typing SVG"/>
@@ -58,6 +58,6 @@ Hi, I'm Saad Peerjade 👋
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/drive/folders/1fkYJk9SmmfPMrxWIncdWwBp3FIIewhlR?usp=drive_link" download>Download my resume</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header" alt="header"/>
 
 © 2026 Saad Peerjade
