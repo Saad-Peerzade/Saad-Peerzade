@@ -5,13 +5,19 @@
 </a>
 
 # 💫 About Me:
-Hi, I'm **Saad Peerjade** 👋  
-🎓 Computer Science student from India  
-👨‍💻 Aspiring **Software Developer** who loves turning ideas into real, useful apps  
-🌱 Currently focusing on **Python, Web Development, and App Development** 🔗 **Curious about Blockchain/Web3** as a side interest  
-⚡ I build step by step and ship small, working increments  
-💬 Ask me about my projects, learning journey, or future plans  
-🎯 Motto: *Keep building, keep improving* ---
+Hi, I'm Saad Peerjade 👋
+
+🎓 CS Student dedicated to building scalable and user-centric applications.
+
+🛠️ Currently architecting solutions with Python and Modern Web Frameworks.
+
+⛓️ Exploring the future of the web through Blockchain & Web3 development.
+
+🚀 My approach: Atomic progress. I believe in shipping small, functional increments and refining through iteration.
+
+💬 Let’s talk about system design, open-source, or the next big dApp.
+
+🎯 Motto: Engineering better versions of myself, one commit at a time.
 
 # 💻 Tech Stack & Skills
 [![My Skills](https://skillicons.dev/icons?i=py,js,c,java,solidity,rust,react,html,css,tailwind,bootstrap,nodejs,git,github,vercel,vscode,figma,ubuntu,windows)](https://skillicons.dev)
