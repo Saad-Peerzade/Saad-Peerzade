@@ -1,8 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=header" alt="header"/> 
 
 <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp6amR6bmZqZzR3eHBybmZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/6Xp9Y0Ios9Nf06E7S2/giphy.gif" width="100">
+  <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=00BFFF&width=435&lines=Hello%2C+it's+Saad+Peerjade;Aspiring+Software+Developer;Blockchain+Enthusiast" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3000&pause=200&color=00F2FF&center=true&vCenter=true&width=500&lines=Hello%2C+it's+Saad+Peerjade;Aspiring+Software+Developer;Blockchain+Enthusiast;Building+the+Future+of+Web3" alt="Typing SVG"/>
   </a>
 </p>
 
