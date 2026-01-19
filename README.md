@@ -1,25 +1,27 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=header" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=header" alt="header"/> 
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=007ACC&width=435&lines=Hello%2C+it's+Saad+Peerjade;Aspiring+Software+Developer;Blockchain+Enthusiast" alt="Typing SVG"/>
-</a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=800000&width=435&lines=Hello%2C+it's+Saad+Peerjade;Aspiring+Software+Developer;Blockchain+Enthusiast" alt="Typing SVG"/>
+  </a>
+</p>
 
 # 💫 About Me:
-Hi, I'm Saad Peerjade 👋
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZqZzR3eHBybmZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/m25G67nvT1GvNC9In7/giphy.gif" align="right" width="150">
 
-🎓 CS Student dedicated to building scalable and user-centric applications.
+Hi, I'm **Saad Peerjade** 👋  
+🎓 Computer Science student from India  
+👨‍💻 Aspiring **Software Developer** who loves turning ideas into real, useful apps  
+🌱 Currently focusing on **Python, Web Development, and App Development** 🔗 **Curious about Blockchain/Web3** as a side interest  
+⚡ I build step by step and ship small, working increments  
+💬 Ask me about my projects, learning journey, or future plans  
+🎯 Motto: *Keep building, keep improving*
 
-🛠️ Currently architecting solutions with Python and Modern Web Frameworks.
-
-⛓️ Exploring the future of the web through Blockchain & Web3 development.
-
-🚀 My approach: Atomic progress. I believe in shipping small, functional increments and refining through iteration.
-
-💬 Let’s talk about system design, open-source, or the next big dApp.
-
-🎯 Motto: Engineering better versions of myself, one commit at a time.
+---
 
 # 💻 Tech Stack & Skills
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp6amR6bmZqZzR3eHBybmZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/B6U9M9mR3yX9F6V9zO/giphy.gif" align="right" width="120">
+
 [![My Skills](https://skillicons.dev/icons?i=py,js,c,java,solidity,rust,react,html,css,tailwind,bootstrap,nodejs,git,github,vercel,vscode,figma,ubuntu,windows)](https://skillicons.dev)
 
 **Data & Productivity** ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
@@ -30,9 +32,13 @@ Hi, I'm Saad Peerjade 👋
 ---
 
 # 🌐 Socials:
+<p align="left">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZqZzR3eHBybmZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/IeS86YhY78S16W24U8/giphy.gif" width="50">
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-peerjade-625223228)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Saad-Peerzade)  
 📧 Email: saadpeerjade5@gmail.com
+</p>
 
 ---
 
@@ -58,5 +64,6 @@ Hi, I'm Saad Peerjade 👋
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/drive/folders/1fkYJk9SmmfPMrxWIncdWwBp3FIIewhlR?usp=drive_link" download>Download my resume</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=header" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=footer" alt="footer"/>
+
 © 2026 Saad Peerjade
