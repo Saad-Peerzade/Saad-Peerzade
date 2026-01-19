@@ -21,7 +21,7 @@ Hi, I'm **Saad Peerjade** 👋
 ---
 
 # 💻 Tech Stack & Skills
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh2M2d3b3g1MjZ0eG4zMG95MHFqd3d6bmNuYnkzeGVyaGUzMjN4MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6rCk8D1VZwm52/giphy.gif" align="right" width="115">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh2M2d3b3g1MjZ0eG4zMG95MHFqd3d6bmNuYnkzeGVyaGUzMjN4MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6rCk8D1VZwm52/giphy.gif" align="right" width="110">
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,c,java,solidity,rust,react,html,css,tailwind,bootstrap,nodejs,git,github,vercel,vscode,figma,ubuntu,windows)](https://skillicons.dev)
 
