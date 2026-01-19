@@ -35,7 +35,7 @@ Hi, I'm **Saad Peerjade** 👋
       <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white" />
     </td>
     <td width="20%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/6rCk8D1VZwm52/giphy.gif" width="100">
+      <img src="https://media.giphy.com/media/6rCk8D1VZwm52/giphy.gif" width="150">
     </td>
   </tr>
 </table>
